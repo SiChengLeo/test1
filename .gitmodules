@@ -1,0 +1,42 @@
+[submodule "baxter"]
+	path = baxter
+	url = https://github.com/RethinkRobotics/baxter
+[submodule "baxter_interface"]
+	path = baxter_interface
+	url = https://github.com/RethinkRobotics/baxter_interface
+[submodule "baxter_tools"]
+	path = baxter_tools
+	url = https://github.com/RethinkRobotics/baxter_tools
+[submodule "baxter_common"]
+	path = baxter_common
+	url = https://github.com/RethinkRobotics/baxter_common
+[submodule "baxter_examples"]
+	path = baxter_examples
+	url = https://github.com/RethinkRobotics/baxter_examples
+[submodule "OpenNI"]
+	path = OpenNI
+	url = https://github.com/OpenNI/OpenNI
+[submodule "debian-openni-sensor-avin2-sensorkinect"]
+	path = debian-openni-sensor-avin2-sensorkinect
+	url = https://github.com/jspricke/debian-openni-sensor-avin2-sensorkinect
+[submodule ".local/share/Trash/files/kinect/OpenNI"]
+	path = .local/share/Trash/files/kinect/OpenNI
+	url = https://github.com/OpenNI/OpenNI
+[submodule ".local/share/Trash/files/kinect/SensorKinect"]
+	path = .local/share/Trash/files/kinect/SensorKinect
+	url = https://github.com/jspricke/debian-openni-sensor-avin2-sensorkinect
+[submodule ".local/share/Trash/files/baxter_ws/src/baxter"]
+	path = .local/share/Trash/files/baxter_ws/src/baxter
+	url = https://github.com/RethinkRobotics/baxter
+[submodule ".local/share/Trash/files/baxter_ws/src/baxter_common"]
+	path = .local/share/Trash/files/baxter_ws/src/baxter_common
+	url = https://github.com/RethinkRobotics/baxter_common
+[submodule ".local/share/Trash/files/baxter_ws/src/baxter_interface"]
+	path = .local/share/Trash/files/baxter_ws/src/baxter_interface
+	url = https://github.com/RethinkRobotics/baxter_interface
+[submodule ".local/share/Trash/files/baxter_ws/src/baxter_tools"]
+	path = .local/share/Trash/files/baxter_ws/src/baxter_tools
+	url = https://github.com/RethinkRobotics/baxter_tools
+[submodule ".local/share/Trash/files/baxter_ws/src/baxter_examples"]
+	path = .local/share/Trash/files/baxter_ws/src/baxter_examples
+	url = https://github.com/RethinkRobotics/baxter_examples
